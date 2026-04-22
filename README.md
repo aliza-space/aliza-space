@@ -36,6 +36,14 @@
 
 ---
 
+<div align="center" style="background: linear-gradient(90deg, #1a1b27, #24283b, #1f2335); padding: 20px; border-radius: 15px;">
+<h2 style="color:white;">📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=aliza-space&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliza-space&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
 <div align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
 <h2 style="color:white;">📈 Contribution Graph</h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliza-space&theme=react-dark" />
