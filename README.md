@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Aliza Juhaina </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=400&speed=50&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;learning+%7C+building+%7C+evolving" />
+</p>
 
-<!--
-**aliza-space/aliza-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🎓 B.Tech CSE Student
+- 🔭 Currently focused on strengthening core programming skills and building exiting projects 
+- 💬 conversations about code > copying code
+- 📫 How to reach me: Connect with me on GitHub!
+- ⚡ Fun fact: I like figuring things out step by step  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+<h2>🛠️ Tech Stack & Tools</h2>
+<h3>Programming Languages</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-1E4C8F?style=for-the-badge&logo=c&logoColor=white" />
+<br><br>
+<h3>Web Technologies</h3>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br><br>
+<h3>Database</h3>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br><br>
+<h3>Tools & Platforms</h3>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+<h3>🤝 Connect with Me</h3>
+<a href="https://github.com/aliza-space" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/aliza-juhaina/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:juhaina.aliza@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
+
+---
+
+<div align="center">
+❤️ Crafted with passion by Aliza
+</div>
