@@ -36,6 +36,13 @@
 
 ---
 
+<div align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 15px;">
+<h2 style="color:white;">📈 Contribution Graph</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliza-space&theme=react-dark" />
+</div>
+
+---
+
 <div align="center">
 <h3>🤝 Connect with Me</h3>
 <a href="https://github.com/aliza-space" target="_blank">
