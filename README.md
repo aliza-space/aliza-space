@@ -8,7 +8,7 @@
 ## 🌱 About Me
 - 🎓 B.Tech CSE Student
 - 🔭 Currently focused on strengthening core programming skills and building exciting projects
-- 💬 conversations about code > copying code
+- 💬 Belief: Conversations about code > Copying code
 - 📫 How to reach me: Connect with me on GitHub!
 - ⚡ Fun fact: I like figuring things out step by step  
 
